@@ -12,11 +12,11 @@ git clone https://github.com/germainantoine/reinforcement_learning.git && cd rei
 
 TO RUN THE PROJECT, YOU NEED TO HAVE GCC AND MAKE SET UP ON YOUR COMPUTER.
 
-### If you have Make downloaded on your computer
+### If you have gcc and Make downloaded on your computer
 
 To run the project and solve different mazes optimally using RL, run the following line while in the reinforcement_learning folder:
 '''
-cd Code && make && cd src && qlearning && maze1
-cd Code && make && cd src && qlearning && piege1
-cd Code && make && cd src && qlearning && piege2
+ - cd Code && make && cd src && qlearning && maze1
+ - cd Code && make && cd src && qlearning && piege1
+ - cd Code && make && cd src && qlearning && piege2
 '''

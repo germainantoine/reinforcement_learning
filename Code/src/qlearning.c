@@ -165,7 +165,6 @@ int main() {
         numerotest++;
     }
     */
-
     mazeEnv_render();
 
     for (int i=0;i<rows*cols;i++) {
